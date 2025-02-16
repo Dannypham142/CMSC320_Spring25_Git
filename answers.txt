@@ -7,3 +7,6 @@ Answer: Data science can be applied to a field such as finance in which anomalit
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging has the two individual version nodes (one of the master branch and one of the edited version) pointing into a new one while rebasing reconfigures its nodes in a line in which one node only has one input and output. 
 Effectively they result in the same thing but rebasing results in a linear commit history often seen as cleaner.
+
+Q4: What are you looking forward to this semester?
+Answer: I'm looking forward to reinforcing my data science background and working on the group project with my peers.
