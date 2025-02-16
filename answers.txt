@@ -3,3 +3,7 @@ Answer: In order to collaborate with peers, manage code and track changes, and w
 
 Q2: What field could data science be applied to? Give an Example.
 Answer: Data science can be applied to a field such as finance in which anomality detection could be used to detect fraud or unauthorized credit card transactions.
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging has the two individual version nodes (one of the master branch and one of the edited version) pointing into a new one while rebasing reconfigures its nodes in a line in which one node only has one input and output. 
+Effectively they result in the same thing but rebasing results in a linear commit history often seen as cleaner.
